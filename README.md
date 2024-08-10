@@ -26,7 +26,7 @@ The Word Occurrence Web App is a Java EE (JEE) web application designed to count
 
 1. **Clone the Repository:**
    ```bash
-   git clone [[repository-url]](https://github.com/NkgopolengGift/WordOccurentWenApp.git)
+   git clone https://github.com/NkgopolengGift/WordOccurentWenApp.git
    cd WordOccurentWenApp
    ```
 
